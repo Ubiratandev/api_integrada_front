@@ -1,6 +1,4 @@
-Aviso importante!!! 
-só o Criador sabe se este projeto vai funcionar direito, nunca escrevi codigo tao rapido na vida, entao boa sorte, peço desculpas
-pelo tom descontraido do texto mas estou cansado demais para ter algum bom senso...
+
 
 Este projeto é um extra ao que foi pedido no projeto do processo seletivo, criei um front end bem rudimentar e integrei com a API criada anteriormente, 
 fiz algumas modificações na API a fim de poder deixa a integração mais interessante, resolvi fazer este projeto para poder explorar um pouco mais
